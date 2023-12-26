@@ -32,3 +32,8 @@ C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\Ta
 C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\AVladyslav.TaskPlanner.Domain.Models.pdb
 C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\AVladyslav.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\AVladyslav.TaskPlanner.ConsoleRunner.csproj.CopyComplete
+C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\AVladyslav.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\AVladyslav.TaskPlanner.DataAccess.dll
+C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\AVladyslav.TaskPlanner.DataAccess.pdb
+C:\Users\Admin\Desktop\ВНТУ\3 курс\1 семестр\.NET\vntu-.net-23\TaskPlanner\AVladyslav.TaskPlanner\AVladyslav.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\AVladyslav.TaskPlanner.DataAccess.Abstractions.pdb
