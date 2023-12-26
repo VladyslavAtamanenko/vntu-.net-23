@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AVladyslav.TaskPlanner.Domain.Logic\AVladyslav.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\AVladyslav.TaskPlanner.Domain.Models\AVladyslav.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>

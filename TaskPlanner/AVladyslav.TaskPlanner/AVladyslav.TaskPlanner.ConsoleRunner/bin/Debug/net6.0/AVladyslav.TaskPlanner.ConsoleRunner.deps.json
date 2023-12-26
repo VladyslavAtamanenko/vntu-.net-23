@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "AVladyslav.TaskPlanner.ConsoleRunner/1.0.0": {
+        "dependencies": {
+          "AVladyslav.TaskPlanner.Domain.Logic": "1.0.0",
+          "AVladyslav.TaskPlanner.Domain.Models": "1.0.0"
+        },
         "runtime": {
           "AVladyslav.TaskPlanner.ConsoleRunner.dll": {}
+        }
+      },
+      "AVladyslav.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "AVladyslav.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "AVladyslav.TaskPlanner.Domain.Logic.dll": {}
+        }
+      },
+      "AVladyslav.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "AVladyslav.TaskPlanner.Domain.Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AVladyslav.TaskPlanner.ConsoleRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AVladyslav.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AVladyslav.TaskPlanner.Domain.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
